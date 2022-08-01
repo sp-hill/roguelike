@@ -1,5 +1,4 @@
 from __future__ import annotations
-from html.entities import entitydefs
 from typing import Iterable, Iterator, Optional, TYPE_CHECKING
 
 import numpy as np # type: ignore

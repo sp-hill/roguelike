@@ -1,5 +1,4 @@
 from __future__ import annotations
-from asyncio import AbstractChildWatcher
 from typing import Optional, Tuple, TYPE_CHECKING
 
 import color
